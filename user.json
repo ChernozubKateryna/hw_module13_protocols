@@ -1,0 +1,23 @@
+
+{
+  "name": "Stephen Edwin King",
+  "username": "King of Horror",
+  "email": "King@test.com",
+  "address": {
+    "street": "h.Overlook",
+    "suite": "217",
+    "city": "Portland",
+    "zipcode": "11-22-63",
+    "geo": {
+      "lat": "-11.22",
+      "lng": "33.44"
+    }
+  },
+  "phone": "123456789",
+  "website": "thegunslinger.org",
+  "company": {
+    "name": "The Shining",
+    "catchPhrase": "You`ll float too (not sure)",
+    "bs": "I always keep a spare mouse in my wallet for occasions such as this."
+  }
+}
